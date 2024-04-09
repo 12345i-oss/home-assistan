@@ -1,1 +1,1 @@
-"""Tests for the scripts."""
+"""Tests for zwave_js scripts."""
